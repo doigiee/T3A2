@@ -17,11 +17,11 @@ T3A2 - PART A
 ---------
 Our Small Group of Full Stack Web Developers were able to work together to create this MERN stack application in just 3 weeks called 'Pawful'. We are a group of 3 students from the Coder Academy in Brisbane, Australia. We are all passionate about creating applications which are user friendly with engaging and responsive UI. We are all very excited to be able to showcase our skills and knowledge through this project, enjoy!
 
-<img src="./docs/Github_portfolio/Jordyn%20OG.jpg" alt="Jordyn" width="100"/> <img src="./docs/Github_portfolio/Josh%20OG.jpg" alt="Josh" width="100"/><img src="./docs/Github_portfolio/Ryan%20OG.jpg" alt="Ryan" width="100"/>
+<a href="https://github.com/JanzenCode"><img src="./docs/Github_portfolio/Jordyn%20OG.jpg" alt="Jordyn" width="100"/></a> <a href="https://github.com/doigiee"><img src="./docs/Github_portfolio/Josh%20OG.jpg" alt="Josh" width="100"/></a><a href="https://github.com/RyanWoolf"><img src="./docs/Github_portfolio/Ryan%20OG.jpg" alt="Ryan" width="100"/></a>
 
-- **Jordyn Small**
-- **Joshua Doig**
-- **Ryan Chang-Ha Lee**
+- [**Jordyn Small**](https://github.com/JanzenCode)
+- [**Joshua Doig**](https://github.com/doigiee)
+- [**Ryan Chang-Ha Lee**](https://github.com/RyanWoolf)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -78,9 +78,9 @@ iii. Dog's details
     - Breed
     - Age
     - (Any text based additional information)
-  iiii. After register, welcome message then redirect to the landing page
+iiii. After register, welcome message then redirect to the landing page
 
-1. Database powered by MongoDB, Node.js, Express.js
+2. Database powered by MongoDB, Node.js, Express.js
   - Sign in /Join 
     i. CRUD
     ii. RegEx for email / password
@@ -109,23 +109,23 @@ The tech stack for this project was numerous though common for this type of proj
   - Canva
   - Photoshop / illustrator
   - Figma
-1. **Frontend**
+2. **Frontend**
   - HTML
   - CSS
   - JavaScript
   - React
-1. **Backend**
+3. **Backend**
   - JavaScript
   - Express.js
   - Node.js
   - MongoDB
-1. **Server hosting**
+4. **Server hosting**
   - Netlify
   - Railway
-1. **Version control**
+5. **Version control**
   - Git
   - Github
-1. **Project management**
+6. **Project management**
   - Kanban
   - Trello
 
