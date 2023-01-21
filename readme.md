@@ -46,49 +46,49 @@ Anyone looking for a dog playground with pet services such as grooming and bath.
 -----------
 Our app comes with many features, some of which include:
 
-1. SPA (single-page-application) powered by React.js
+**A.** SPA (single-page-application) powered by React.js
 
 - Nav bar (Hamburger menu)
-  i. About us / Services / Inquiry / Sign in / Join
+  1. About us / Services / Inquiry / Sign in / Join
 - Landing page
-  i. Short greetings with 2 buttons
-    - Our services
-    - Make a booking
+  1. Short greetings with two buttons
+       - Our services
+       - Make a booking
 - About us page
-  i. playground and location information
+  1. playground and location information
 - Services page
-  i. Services list
-  ii. Package list
-  iii. Customers can make a booking through here
+  1. Services list
+  2. Package list
+  3. Customers can make a booking through here
 - Send an inquiry
 - Sign in page (modal)
-  i. Redirect to the landing page
+  1. Redirect to the landing page
 - Join page
-  i. Email Verification
-  ii. Member detail
-    - Email
-    - Title
-    - First name
-    - Last name
-    - Contact
-    - Address/City
-iii. Dog's details
-    - Name
-    - Sex
-    - Breed
-    - Age
-    - (Any text based additional information)
-iiii. After register, welcome message then redirect to the landing page
+  1. Email Verification
+  2. Member details
+       - Email
+       - Title
+       - First name
+       - Last name
+       - Contact
+       - Address/City
+  3. Dog's details
+       - Name
+       - Sex
+       - Breed
+       - Age
+       - (Any text based additional information)
+  4. After register, welcome message then redirect to the landing page
 
-2. Database powered by MongoDB, Node.js, Express.js
+**B.** Database powered by MongoDB, Node.js, Express.js
   - Sign in /Join 
-    i. CRUD
-    ii. RegEx for email / password
+    1. CRUD
+    2. RegEx for email / password
   - Booking a service / Check bookings
-    i. CRUD
+    1. CRUD
   - Inquiries
-    i. Using HTML form to send email
-    ii. The log can be added into the database
+    1. Using HTML form to send email
+    2. The log can be added into the database
 ---------------------------------------------------------------------------------------------------------
 
 
