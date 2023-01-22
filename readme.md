@@ -17,7 +17,7 @@ T3A2 - PART A
 ---------
 Our Small Group of Full Stack Web Developers were able to work together to create this MERN stack application in just 3 weeks called 'Pawful'. We are a group of 3 students from the Coder Academy in Brisbane, Australia. We are all passionate about creating applications which are user friendly with engaging and responsive UI. We are all very excited to be able to showcase our skills and knowledge through this project, enjoy!
 
-<a href="https://github.com/JanzenCode"><img src="./docs/Github_portfolio/Jordyn%20OG.jpg" alt="Jordyn" width="100"/></a> <a href="https://github.com/doigiee"><img src="./docs/Github_portfolio/Josh%20OG.jpg" alt="Josh" width="100"/></a><a href="https://github.com/RyanWoolf"><img src="./docs/Github_portfolio/Ryan%20OG.jpg" alt="Ryan" width="100"/></a>
+<a href="https://github.com/JanzenCode"><img src="./docs/Github_portfolio/Jordyn_OG.jpg" alt="Jordyn" width="100"/></a> <a href="https://github.com/doigiee"><img src="./docs/Github_portfolio/Josh_OG.jpg" alt="Josh" width="100"/></a> <a href="https://github.com/RyanWoolf"><img src="./docs/Github_portfolio/Ryan_OG.jpg" alt="Ryan" width="100"/></a>
 
 - [**Jordyn Small**](https://github.com/JanzenCode)
 - [**Joshua Doig**](https://github.com/doigiee)
@@ -181,28 +181,43 @@ Below are just a few anecdotes of user stories which demonstrates the purpose of
 ---------------------------------------------------------------------------------------------------------
 
 
+**Mood Board**
+-----------
+
+![Moodboard](./docs/moodboard/moodboard.jpg)
+
+---------------------------------------------------------------------------------------------------------
+
+
 
 **Different Views // UI**
 -----------
 
 Created to showcase the appearance of the final product's user interface (on all devices) which enables it to reach users on all platforms. This was also used as a template and referenced throughout the application process stages to reflect back and see what it is that we are striving for as a minimum standard for quality. Notice the difference in appearance between desktop and other platforms as we have been able to accommodate for more slender views and still deliver a high-quality functioning product. 
 
+
+**Initial design**
+
+![initial view](./docs/Different_views/initial_view.png)
+
+
 **Mobile View**
 
 ![mobile view](./docs/Different_views/mobile_view.png)
+![mobile](./docs/mockups/mockup_mobile.png)
 
 
 
 **Tablet View**
 
 ![tablet view](./docs/Different_views/tablet_view.png)
-
+![tablet](./docs/mockups/mockup_tablet.png)
 
 
 **Desktop View**
 
 ![desktop view](./docs/Different_views/desktop_view.png)
-
+![desktop](./docs/mockups/mockup_desktop.png)
 
 ---------------------------------------------------------------------------------------------------------
 
