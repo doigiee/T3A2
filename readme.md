@@ -11,7 +11,7 @@ T3A2 - PART A
 
 [**Part A**](https://github.com/doigiee/T3A2)  
 [**Part B - Client**](https://github.com/ryanwoolf/T3A2-Client)  
-[**Part B - Server**]  
+[**Part B - Server**](https://github.com/doigiee/doigiee-T3A2-B-Server)
 
 ---------------------------------------------------------------------------------------------------------
 
