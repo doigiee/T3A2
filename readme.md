@@ -9,9 +9,10 @@ T3A2 - PART A
 **(Planning & Documentation Phase)**
 ---------------------------------------------------------------------------------------------------------
 
-[**Part A**](https://github.com/doigiee/T3A2)  
-[**Part B - Client**](https://github.com/ryanwoolf/T3A2-Client)  
-[**Part B - Server**]  
+### **Repositories**
+- [**Part A**](https://github.com/doigiee/T3A2)  
+- [**Part B - API Server**](https://github.com/doigiee/T3A2-B-Server__)  
+- [**Part B - Client**](https://github.com/ryanwoolf/T3A2-Client)  
 
 ---------------------------------------------------------------------------------------------------------
 
